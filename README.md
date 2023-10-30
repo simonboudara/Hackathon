@@ -9,6 +9,8 @@ Vous allez donc proposer des analyses de données pour aider à défricher le su
 
 *Notez que: les sujets vous proposent des données mais vous pouvez rechercher d'autres données pour compléter ou remplacer les données fournies.*
 
+[Les sujets sont décrits ici](./sujets.md)
+
 ## 2. Le groupe réfléchit aux analyses qu'il souhaite réaliser et dessine leur enchaînement
 
 Les différentes parties de codes, pour réaliser les analyses, peuvent être inter-dépendantes c'est le plus souvent le cas dans des projets réels.
