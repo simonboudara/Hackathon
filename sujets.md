@@ -38,9 +38,11 @@ les indicateurs économiques (PNB) ne tiennent pas suffisamment compte du bonheu
   <https://exoplanetarchive.ipac.caltech.edu/index.html>
 
 * de là vous pouvez télécharger les données qui décrivent toutes les exoplanètes
-  connues; par exemple cliquer sur ![](media/nasa-planets.png),
+  connues; par exemple cliquer sur  
+  ![](media/nasa-planets.png),
 
-  puis dans le menu *Download Table* vous pourrez choisir plusieurs options avant de cliquer, toujours dans le même menu, sur *Download Table* ![](media/nasa-menu.png)
+  puis dans le menu *Download Table* vous pourrez choisir plusieurs options avant de cliquer, toujours dans le même menu, sur *Download Table*  
+  ![](media/nasa-menu.png)
 
 * vous y trouverez également quelques exemples de statistiques calculées sur les exoplanètes  
   <https://exoplanetarchive.ipac.caltech.edu/exoplanetplots/>  
