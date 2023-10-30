@@ -2,6 +2,10 @@
 
 Ce hackathon est une (première) expérience de réalisation d'un logiciel en groupe.
 
+## 0. Le rendu
+
+Faites un repo public `pe-hackathon` avec les fichiers de code et le schéma (celui décrit en section 3.a) dans l'espace github d'un des élève du groupe et indiquez le nom de l'espace github dans le google-sheet des groupes.
+
 ## 1. Le groupe choisit un sujet
 
 Supposons que vous avez choisi un sujet plutôt *ouvert*: il n'y a pas une solution évidente, unique et directe pour le traiter.  
@@ -56,6 +60,8 @@ Pour les débutants, une manière de faire est d'essayer de simplifier le schém
  |  |  |  |
  B  C  D  E
 ```
+
+**dessinez le schéma** de votre projet avec les noms des élèves du groupe à la place des lettres (`A`, `B`, `C`...) et mettez les changements successifs - faites une photo de votre dessin et mettez le avec les fichiers dans le répertoire demandé en section 0
 
 ### 3.b Gérer les évolutions du projet
 
