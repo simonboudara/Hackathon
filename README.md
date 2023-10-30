@@ -4,7 +4,9 @@ Ce hackathon est une (première) expérience de réalisation d'un logiciel en gr
 
 ## 0. Le rendu
 
-Faites un repo public `pe-hackathon` avec les fichiers de code et le schéma (celui décrit en section 3.a) dans l'espace github d'un des élève du groupe et indiquez le nom de l'espace github dans le google-sheet des groupes.
+Faites un repo public `pe-hackathon` avec les fichiers de code et le schéma (celui décrit en section 3.a) dans l'espace github d'un des élèves du groupe, et indiquez le nom de l'espace github dans le google-sheet des groupes.
+
+Pour mémoire: [les groupes sont dans ce *google spreadsheet*](https://docs.google.com/spreadsheets/d/1d8w9hIVgm02j6xoWYont1FO3k-5fPbhKfRUvxvNPpRA/edit?usp=sharing)
 
 ## 1. Le groupe choisit un sujet
 
