@@ -93,3 +93,13 @@ si aucun de ces sujets ne vous inspire, les portails
 
 pour ne citer que des portails français, sont des mines de données ouvertes sur
 des sujets très variés...
+
+## quelques liens potentiellement utiles
+
+enfin voici quelques liens vers des technologies qui pourraient vous être utiles
+
+* pour faire repidement un *dashboard* avec des visualisations interactives,  
+  [vous pouvez essayer utiliser d'utiliser `streamlit`](https://nbhosting.inria.fr/builds/ds-exos/data-science/latest/ds-dashboards/streamlit/README-streamlit-nb.html)
+* pour montrer facilement des objets géographiques (points ou zones) sur une carte,  
+  [vous pouvez essayer d'utiliser `folium` en conjonction avec `geopandas`](https://nbhosting.inria.fr/builds/ds-exos/data-science/latest/ds-geo/folium/README-folium-nb.html)
+* enfin [on vous rappelle l'URL des cours](https://ue12-p23-numerique.readthedocs.io/en/latest/0-00-intro.html)
