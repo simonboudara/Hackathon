@@ -25,5 +25,4 @@
 # sauvé en Python
 
 # %%
-def foo():
-    print("hello world")
+print("hello world")
