@@ -28,7 +28,8 @@ résoudre des problèmes de puzzle; tous les détails sont ici:
 
 ### sujet #2: l'indice du bonheur
 
-les indicateurs économiques (PNB) ne tiennent pas suffisamment compte du bonheur des individus, proposez des idées pour pallier à ce problème; un peu plus de détails dans le fichier séparé [`sujet-happiness.md`](./sujet-happiness.md)
+les indicateurs économiques (PNB) ne tiennent pas suffisamment compte du bonheur des individus,
+proposez des idées pour pallier à ce problème; un peu plus de détails dans le fichier séparé [`sujet-happiness.md`](./sujet-happiness.md)
 
 ## des données à caractère scientifique
 
@@ -53,7 +54,8 @@ les indicateurs économiques (PNB) ne tiennent pas suffisamment compte du bonheu
 ### sujet #4: les tremblements de terre
 
 * les données brutes  
-  <https://public.opendatasoft.com/explore/dataset/significant-earthquake-database/export/>
+  <https://public.opendatasoft.com/explore/dataset/significant-earthquake-database/export/>  
+  (données GeoJSON à charger avec `geopandas`)
 
 * le mode d'emploi des données  
   <https://public.opendatasoft.com/explore/dataset/significant-earthquake-database/information/>
@@ -80,10 +82,10 @@ si intérêt, on peut trouver des données relatives à l'inflation sur le site 
 
 ### sujet #6: les coiffeurs sont des blagueurs
 
-Ces données sont des données géographiques, elles demandent à utiliser la librairie `geopandas` (et donc à savoir utiliser `geopandas`). 
-. 
 * les données brutes  
-  <https://www.data.gouv.fr/fr/datasets/coordonnees-des-enseignes-de-coiffure-comportant-des-jeux-de-mots-cocasses-dans-leur-appellation/>
+  <https://www.data.gouv.fr/fr/datasets/coordonnees-des-enseignes-de-coiffure-comportant-des-jeux-de-mots-cocasses-dans-leur-appellation/>  
+  (données GeoJSON à charger avec `geopandas`)
+
 * un exemple d'utilisation  
   <https://www.data.gouv.fr/fr/reuses/les-coiffeurs-sont-des-blagueurs/>
 
@@ -93,15 +95,18 @@ si aucun de ces sujets ne vous inspire, les portails
 * du gouvernement - <https://data.gouv.fr>
 * ou de l'Insee - utiliser la recherche <https://www.insee.fr/fr/recherche>
 
-pour ne citer que des portails français, sont des mines de données ouvertes sur
+  pour ne citer que des portails français, sont des mines de données ouvertes sur
 des sujets très variés...
+* ou encore les datasets cités ici <https://www.springboard.com/blog/data-science/15-fun-datasets-to-analyze/> qui sortent un peu de l'ordinaire..
 
 ## quelques liens potentiellement utiles
 
 enfin voici quelques liens vers des technologies qui pourraient vous être utiles
 
 * pour faire repidement un *dashboard* avec des visualisations interactives,  
-  [vous pouvez essayer utiliser d'utiliser `streamlit`](https://nbhosting.inria.fr/builds/ds-exos/data-science/latest/ds-dashboards/streamlit/README-streamlit-nb.html)
-* pour montrer facilement des objets géographiques (points ou zones) sur une carte,  
-  [vous pouvez essayer d'utiliser `folium` en conjonction avec `geopandas`](https://nbhosting.inria.fr/builds/ds-exos/data-science/latest/ds-geo/folium/README-folium-nb.html)
-* enfin [on vous rappelle l'URL des cours](https://ue12-p23-numerique.readthedocs.io/en/latest/0-00-intro.html)
+  vous pouvez regarder `streamlit`, [voir une petite intro ici](https://nbhosting.inria.fr/builds/ds-exos/data-science/latest/ds-dashboards/streamlit/README-streamlit-nb.html)
+* pour charger des données à caractère géographique, la bonne approche consiste à utiliser `geopandas`;
+* et pour montrer facilement des objets géographiques (points ou zones) sur une carte,  
+  vous pouvez utiliser `folium` en conjonction avec `geopandas`,  
+  [voir un petit exemple ici](https://nbhosting.inria.fr/builds/ds-exos/data-science/latest/ds-geo/folium/README-folium-nb.html)
+* enfin [on vous rappelle l'URL des cours: `https://ue12-p23-numerique.readthedocs.io/`](https://ue12-p23-numerique.readthedocs.io/)
