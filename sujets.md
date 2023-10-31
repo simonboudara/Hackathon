@@ -28,7 +28,7 @@ résoudre des problèmes de puzzle; tous les détails sont ici:
 
 ### sujet #2: l'indice du bonheur
 
-les indicateurs économiques (PNB) ne tiennent pas suffisamment compte du bonheur des individus, proposer des idées pour pallier à ce problème; un peu plus de détails dans le fichier séparé [`sujet-happiness.md`](./sujet-happiness.md)
+les indicateurs économiques (PNB) ne tiennent pas suffisamment compte du bonheur des individus, proposez des idées pour pallier à ce problème; un peu plus de détails dans le fichier séparé [`sujet-happiness.md`](./sujet-happiness.md)
 
 ## des données à caractère scientifique
 
@@ -80,6 +80,8 @@ si intérêt, on peut trouver des données relatives à l'inflation sur le site 
 
 ### sujet #6: les coiffeurs sont des blagueurs
 
+Ces données sont des données géographiques, elles demandent à utiliser la librairie `geopandas` (et donc à savoir utiliser `geopandas`). 
+. 
 * les données brutes  
   <https://www.data.gouv.fr/fr/datasets/coordonnees-des-enseignes-de-coiffure-comportant-des-jeux-de-mots-cocasses-dans-leur-appellation/>
 * un exemple d'utilisation  
